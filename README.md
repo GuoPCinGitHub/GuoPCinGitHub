@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuoPCinGitHub.
+- 👋 Hi, I’m @GuoPCinGitHub, you can call me *GuoPC* or *Koh*.
 - 👀 I’m interested in Coding, Wiki and music games.
 - 🌱 I’m currently learning Python, HTML & JavaScript.
 - 📫 You can contact me by sending emails.
