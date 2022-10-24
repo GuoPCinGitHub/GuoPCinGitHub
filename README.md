@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GuoPCinGitHub, you can call me *GuoPC* or *Koh*.
-- 👀 I’m interested in Coding, Wiki and music games.
-- 🌱 I’m currently learning Python, HTML & JavaScript.
+- 👋 Hi, I’m @GuoPCinGitHub, you can call me *GuoPC* or *Itomi*.
+- 👀 I’m interested in coding, Wikis and music games.
+- 🌱 I’m currently learning HTML & JavaScript.
 - 📫 You can contact me by sending emails.
 - ✏️ You can have a look at [my blog](https://guopcingithub.github.io) if you like.
 - 🤔 Still here? Get around and enjoy yourself!
