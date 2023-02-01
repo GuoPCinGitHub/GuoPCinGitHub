@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, Wikis and music games.
 - 🌱 I’m currently learning HTML & JavaScript.
 - 📫 You can contact me by sending emails.
-- ✏️ You can have a look at [my blog](https://guopcingithub.github.io) if you like.
+- ✏️ You can have a look at [my blog](https://guopcingithub.github.io) (in Chinese) if you like.
 - 🤔 Still here? Get around and enjoy yourself!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoPCinGitHub&show_icons=true&theme=solarized-light)
