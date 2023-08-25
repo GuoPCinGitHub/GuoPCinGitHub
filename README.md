@@ -13,7 +13,7 @@
 ![Honor V20](https://img.shields.io/badge/Honor_View_20-C7000B?style=for-the-badge&logo=huawei)
 
 ### Systems
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=microsoft)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11)
 ![Android 10](https://img.shields.io/badge/Android_10-3DDC84?style=for-the-badge&logo=android&logoColor=FFFFFF)
 
 ### Browsers I use
