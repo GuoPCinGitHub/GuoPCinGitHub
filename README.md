@@ -14,7 +14,7 @@
 
 ### Systems
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11)
-![HarmonyOS 3](https://img.shields.io/badge/HarmonyOS_3-1050FF?style=for-the-badge&logo=harmonyos)
+![HarmonyOS 3](https://img.shields.io/badge/HarmonyOS_3-000000?style=for-the-badge&logo=harmonyos)
 
 ### Browsers I use
 ![Firefox Browser](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=FFFFFF)
