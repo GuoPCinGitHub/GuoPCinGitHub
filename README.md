@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoPCinGitHub&theme=solarized-light)
 
 ### Devices I use
-![Huawei MateBook 14](https://img.shields.io/badge/Huawei_MateBook_14-FF0000?style=for-the-badge&logo=huawei)
+![Huawei MateBook 14](https://img.shields.io/badge/Huawei_MateBook_14-C8000C?style=for-the-badge&logo=huawei)
 ![Honor V20](https://img.shields.io/badge/Honor_View_20-000000?style=for-the-badge&logo=honor)
 
 ### Systems
@@ -26,4 +26,4 @@
 
 ### You can contact me by …
 [![Gmail](https://img.shields.io/badge/gpc2843661009@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:gpc2843661009@gmail.com)
-[![QQ Mail](https://img.shields.io/badge/itomi@qq.com-EB1923?style=for-the-badge&logo=tencentqq)](mailto:itomi@qq.com)
+[![QQ Mail](https://img.shields.io/badge/itomi@qq.com-12B7F5?style=for-the-badge&logo=tencentqq)](mailto:itomi@qq.com)
