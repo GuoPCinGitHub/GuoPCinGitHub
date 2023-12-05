@@ -4,9 +4,9 @@
 - ✏️ You can have a look at [my blog](https://guopcingithub.github.io) (in Chinese) if you like.
 - 🤔 Still here? Get around and enjoy yourself!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoPCinGitHub&show_icons=true&theme=solarized-light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoPCinGitHub&show_icons=true&theme=catppuccin_latte)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoPCinGitHub&theme=solarized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoPCinGitHub&theme=catppuccin_latte)
 
 ### Devices I use
 ![Huawei MateBook 14](https://img.shields.io/badge/Huawei_MateBook_14-C8000C?style=for-the-badge&logo=huawei)
@@ -24,6 +24,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter@Guo__PC-1D9BF0?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](https://twitter.com/Guo_PC)
 [![Steam](https://img.shields.io/badge/Steam@GuoPC-344554?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/GuoPC/)
 
-### You can contact me by …
+### You can contact me via …
 [![Gmail](https://img.shields.io/badge/gpc2843661009@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:gpc2843661009@gmail.com)
 [![QQ Mail](https://img.shields.io/badge/itomi@qq.com-12B7F5?style=for-the-badge&logo=tencentqq)](mailto:itomi@qq.com)
