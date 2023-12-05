@@ -4,9 +4,13 @@
 - ✏️ You can have a look at [my blog](https://guopcingithub.github.io) (in Chinese) if you like.
 - 🤔 Still here? Get around and enjoy yourself!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoPCinGitHub&show_icons=true&theme=catppuccin_latte)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoPCinGitHub&show_icons=true&theme=shadow_blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoPCinGitHub&theme=catppuccin_latte)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoPCinGitHub&theme=shadow_blue)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GuoPCinGitHub&theme=shadow_blue)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GuoPCinGitHub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Devices I use
 ![Huawei MateBook 14](https://img.shields.io/badge/Huawei_MateBook_14-C8000C?style=for-the-badge&logo=huawei)
