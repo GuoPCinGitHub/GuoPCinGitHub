@@ -31,5 +31,3 @@
 ### You can contact me via …
 [![Gmail](https://img.shields.io/badge/gpc2843661009@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:gpc2843661009@gmail.com)
 [![QQ Mail](https://img.shields.io/badge/itomi@qq.com-12B7F5?style=for-the-badge&logo=tencentqq)](mailto:itomi@qq.com)
-
-<span title="Hypertext Markup Language">*HTML*</span>
