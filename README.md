@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuoPCinGitHub, you can call me *GuoPC* or *Saki*.
-- 👀 I’m interested in wikis, music games and novels.
+- 👀 I’m interested in reading novels and listening to music.
 - 🌱 I’m currently learning Python, HTML & JavaScript.
 - ✏️ You can have a look at [my blog](https://guopcingithub.github.io) (in Chinese) if you like.
 - 🤔 Still here? Get around and enjoy yourself!
