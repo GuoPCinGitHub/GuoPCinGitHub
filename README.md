@@ -25,8 +25,8 @@
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=microsoftedge)
 
 ### You can find me on …
-[![Twitter](https://img.shields.io/badge/Twitter@Guo__PC-1D9BF0?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](https://twitter.com/Guo_PC)
 [![Steam](https://img.shields.io/badge/Steam@GuoPC-344554?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/GuoPC/)
+[![Xbox](https://img.shields.io/badge/Xbox@GuoPC-107C11?style=for-the-badge&logo=xbox)](https://account.xbox.com/en-US/Profile?gamerTag=GuoPC)
 
 ### You can contact me via …
 [![Gmail](https://img.shields.io/badge/gpc2843661009@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:gpc2843661009@gmail.com)
