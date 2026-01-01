@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GuoPCinGitHub, you can call me *GuoPC* or *Saki*.
 - 👀 I’m interested in reading novels and listening to music.
 - 🌱 I’m currently learning Python, HTML & JavaScript.
-- ✏️ You can have a look at [my blog](https://guopcingithub.github.io/blog) (in Chinese) if you like.
+- ✏️ You can have a look at [my blog](https://guopcingithub.github.io) (in Chinese) if you like.
 - 🤔 Still here? Get around and enjoy yourself!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoPCinGitHub&show_icons=true&theme=shadow_blue&card_width=495px)](https://github-readme-stats.vercel.app)
