@@ -10,8 +10,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GuoPCinGitHub&theme=shadow_blue&width=495)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GuoPCinGitHub&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Devices I use
 [![Huawei MateBook 14](https://img.shields.io/badge/Huawei_MateBook_14-C8000C?style=for-the-badge&logo=huawei)](https://consumer.huawei.com/en/)
 [![Honor V20](https://img.shields.io/badge/Honor_View_20-000000?style=for-the-badge&logo=honor)](https://www.honor.com/global/)
